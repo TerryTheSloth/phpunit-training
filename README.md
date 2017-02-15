@@ -1,3 +1,5 @@
+# phpunit-training
+
 To run tests and generate coverage (requires `PHPUnit`):
 
 ```shell
